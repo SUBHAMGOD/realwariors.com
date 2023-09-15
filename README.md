@@ -67,14 +67,14 @@ a{
   text-decoration: none;
 }
 </style>
-            <script>
-      emojisplosion();
-    </script>
-    <script>
-      function explode() {
-        emojisplosion();
-      }
-    </script>
+            <script>
+      emojisplosion();
+    </script>
+    <script>
+      function explode() {
+        emojisplosion();
+      }
+    </script>
      <script>
        function explode() {
          emojisplosion();
