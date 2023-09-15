@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
    <head>
      <link href="style.css" rel="stylesheet" />
@@ -80,7 +81,7 @@ a{
          emojisplosion();
        }
      </script>
-     <div class="container">
+   
        <img src="https://mimo.app/i/hacker.png">
        <h1>Founded BY - DAVIK YADAV</h1>
        <h1>OUR TEAM MEMBERS</h1>
